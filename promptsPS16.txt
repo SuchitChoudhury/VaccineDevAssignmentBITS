@@ -1,0 +1,4 @@
+displayStrains: Covaxin
+listVaccine: P1
+commonStrain: Pfizer : Moderna
+findVaccineConnect: Moderna : J&J  
